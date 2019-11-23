@@ -18,3 +18,498 @@
 2019-11-23 14:39:00 INFO  Browser:36 - Full screen mode is on
 2019-11-23 14:39:05 INFO  BaseElement:22 - Research clicked
 2019-11-23 14:39:35 INFO  BaseTest:23 - Browser closes
+2019-11-23 19:29:24 INFO  Browser:51 - Timeout is 30
+2019-11-23 19:29:24 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 19:29:35 INFO  Browser:36 - Full screen mode is on
+2019-11-23 19:29:39 INFO  BaseElement:22 - Research clicked
+2019-11-23 19:30:10 INFO  BaseTest:23 - Browser closes
+2019-11-23 19:31:29 INFO  Browser:51 - Timeout is 30
+2019-11-23 19:31:29 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 19:31:34 INFO  Browser:36 - Full screen mode is on
+2019-11-23 19:31:38 INFO  BaseElement:22 - Research clicked
+2019-11-23 19:32:09 INFO  BaseTest:23 - Browser closes
+2019-11-23 19:33:03 INFO  Browser:51 - Timeout is 30
+2019-11-23 19:33:03 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 19:33:07 INFO  Browser:36 - Full screen mode is on
+2019-11-23 19:33:12 INFO  BaseElement:22 - Research clicked
+2019-11-23 19:33:15 INFO  BaseTest:23 - Browser closes
+2019-11-23 19:55:35 INFO  Browser:51 - Timeout is 30
+2019-11-23 19:55:35 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 19:55:50 INFO  Browser:36 - Full screen mode is on
+2019-11-23 19:55:54 INFO  BaseElement:22 - Research clicked
+2019-11-23 19:55:58 INFO  BaseElement:22 - makeId clicked
+2019-11-23 19:55:59 INFO  BaseTest:23 - Browser closes
+2019-11-23 19:56:35 INFO  Browser:51 - Timeout is 30
+2019-11-23 19:56:35 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 19:56:40 INFO  Browser:36 - Full screen mode is on
+2019-11-23 19:56:44 INFO  BaseElement:22 - Research clicked
+2019-11-23 19:56:47 INFO  BaseElement:22 - makeId clicked
+2019-11-23 19:56:53 INFO  BaseTest:23 - Browser closes
+2019-11-23 20:25:59 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:25:59 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:26:04 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:26:08 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:26:11 INFO  BaseElement:22 - makeId clicked
+2019-11-23 20:26:12 INFO  BaseTest:23 - Browser closes
+2019-11-23 20:26:41 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:26:41 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:26:47 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:26:51 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:26:54 INFO  BaseElement:22 - makeId clicked
+2019-11-23 20:27:00 INFO  BaseTest:23 - Browser closes
+2019-11-23 20:27:39 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:27:39 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:27:43 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:27:48 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:27:51 INFO  BaseElement:22 - makeId clicked
+2019-11-23 20:36:35 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:36:35 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:36:52 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:36:56 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:36:59 INFO  BaseElement:22 - makeId clicked
+2019-11-23 20:37:00 INFO  BaseTest:23 - Browser closes
+2019-11-23 20:38:50 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:38:50 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:39:04 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:39:09 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:39:13 INFO  BaseElement:22 - makeId clicked
+2019-11-23 20:44:27 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:44:27 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:44:56 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:45:01 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:45:04 INFO  BaseElement:22 - makeId clicked
+2019-11-23 20:45:08 INFO  BaseTest:23 - Browser closes
+2019-11-23 20:46:44 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:46:44 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:47:03 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:47:08 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:47:12 INFO  BaseElement:22 - makeId clicked
+2019-11-23 20:49:04 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:49:04 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:49:17 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:49:21 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:49:24 INFO  BaseElement:22 - makeId clicked
+2019-11-23 20:56:24 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:56:24 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:56:47 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:56:52 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:56:53 INFO  BaseElement:22 - makeId clicked
+2019-11-23 20:57:55 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:57:55 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:58:12 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:58:16 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:58:20 INFO  BaseElement:22 - makeId clicked
+2019-11-23 20:58:23 INFO  BaseTest:23 - Browser closes
+2019-11-23 20:59:12 INFO  Browser:51 - Timeout is 30
+2019-11-23 20:59:12 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 20:59:44 INFO  Browser:36 - Full screen mode is on
+2019-11-23 20:59:48 INFO  BaseElement:22 - Research clicked
+2019-11-23 20:59:52 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:00:02 INFO  BaseTest:23 - Browser closes
+2019-11-23 21:00:29 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:00:29 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:00:48 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:00:52 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:00:54 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:01:08 INFO  BaseTest:23 - Browser closes
+2019-11-23 21:06:34 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:06:35 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:07:01 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:07:05 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:07:08 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:08:11 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:08:11 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:08:27 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:08:32 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:08:37 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:08:46 INFO  BaseTest:23 - Browser closes
+2019-11-23 21:09:39 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:09:39 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:09:55 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:09:59 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:10:02 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:15:18 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:15:18 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:15:28 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:15:32 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:15:34 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:15:35 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:15:36 INFO  BaseElement:22 - year clicked
+2019-11-23 21:15:36 INFO  BaseTest:23 - Browser closes
+2019-11-23 21:17:03 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:17:03 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:17:11 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:17:15 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:17:19 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:17:22 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:18:07 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:18:07 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:18:21 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:18:25 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:18:29 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:18:30 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:18:31 INFO  BaseElement:22 - year clicked
+2019-11-23 21:18:31 INFO  BaseElement:22 - Search clicked
+2019-11-23 21:20:03 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:20:03 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:20:09 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:20:13 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:20:16 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:20:18 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:20:19 INFO  BaseElement:22 - year clicked
+2019-11-23 21:20:19 INFO  BaseElement:22 - Search clicked
+2019-11-23 21:21:12 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:21:12 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:21:20 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:21:24 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:21:27 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:21:28 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:21:28 INFO  BaseElement:22 - year clicked
+2019-11-23 21:21:29 INFO  BaseElement:22 - Search clicked
+2019-11-23 21:23:05 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:23:05 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:23:13 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:23:17 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:23:20 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:23:21 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:23:21 INFO  BaseElement:22 - year clicked
+2019-11-23 21:23:21 INFO  BaseElement:22 - Search clicked
+2019-11-23 21:25:01 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:25:01 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:25:15 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:25:20 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:25:23 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:25:25 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:25:26 INFO  BaseElement:22 - year clicked
+2019-11-23 21:25:26 INFO  BaseElement:22 - Search clicked
+2019-11-23 21:35:50 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:35:50 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:35:56 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:36:00 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:36:03 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:37:26 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:38:50 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:38:50 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:38:55 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:38:59 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:39:02 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:39:10 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:39:20 INFO  BaseElement:22 - year clicked
+2019-11-23 21:45:17 INFO  BaseElement:22 - Search clicked
+2019-11-23 21:50:00 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:50:00 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:50:06 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:50:10 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:50:13 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:50:15 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:50:16 INFO  BaseElement:22 - year clicked
+2019-11-23 21:53:00 INFO  BaseElement:22 - Search clicked
+2019-11-23 21:54:25 INFO  Browser:51 - Timeout is 30
+2019-11-23 21:54:25 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 21:54:31 INFO  Browser:36 - Full screen mode is on
+2019-11-23 21:54:35 INFO  BaseElement:22 - Research clicked
+2019-11-23 21:54:39 INFO  BaseElement:22 - makeId clicked
+2019-11-23 21:54:41 INFO  BaseElement:22 - modelId clicked
+2019-11-23 21:54:42 INFO  BaseElement:22 - year clicked
+2019-11-23 21:59:59 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:00:12 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:00:12 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:00:26 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:00:30 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:00:34 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:00:35 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:00:36 INFO  BaseElement:22 - year clicked
+2019-11-23 22:00:42 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:00:47 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:19:15 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:19:15 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:19:24 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:19:28 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:19:31 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:19:33 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:19:34 INFO  BaseElement:22 - year clicked
+2019-11-23 22:19:35 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:19:55 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:22:28 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:22:28 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:22:42 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:22:47 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:22:50 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:22:52 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:22:53 INFO  BaseElement:22 - year clicked
+2019-11-23 22:22:53 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:23:03 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:24:45 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:24:45 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:24:50 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:24:55 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:24:59 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:25:02 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:25:02 INFO  BaseElement:22 - year clicked
+2019-11-23 22:25:03 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:25:11 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:26:22 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:26:22 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:26:29 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:26:33 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:26:36 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:26:38 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:26:39 INFO  BaseElement:22 - year clicked
+2019-11-23 22:26:39 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:27:36 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:27:36 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:27:43 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:27:48 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:27:52 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:27:55 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:27:55 INFO  BaseElement:22 - year clicked
+2019-11-23 22:27:55 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:29:31 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:29:31 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:29:36 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:29:40 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:29:42 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:29:43 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:30:20 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:30:20 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:30:25 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:30:29 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:30:32 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:30:34 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:30:34 INFO  BaseElement:22 - year clicked
+2019-11-23 22:30:34 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:30:46 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:33:05 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:33:05 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:33:10 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:33:14 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:33:17 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:33:21 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:33:23 INFO  BaseElement:22 - year clicked
+2019-11-23 22:33:23 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:33:27 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:42:25 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:42:25 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:42:33 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:42:37 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:42:42 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:42:43 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:42:43 INFO  BaseElement:22 - year clicked
+2019-11-23 22:42:43 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:42:45 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:42:45 INFO  BaseTest:23 - Browser closes
+2019-11-23 22:43:21 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:43:21 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:43:36 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:43:40 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:43:43 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:43:44 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:43:45 INFO  BaseElement:22 - year clicked
+2019-11-23 22:43:45 INFO  BaseTest:23 - Browser closes
+2019-11-23 22:44:00 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:44:00 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:44:08 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:44:12 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:44:15 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:44:17 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:44:18 INFO  BaseElement:22 - year clicked
+2019-11-23 22:44:18 INFO  BaseTest:23 - Browser closes
+2019-11-23 22:45:15 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:45:15 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:45:19 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:45:23 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:45:28 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:45:31 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:45:34 INFO  BaseElement:22 - year clicked
+2019-11-23 22:45:35 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:45:38 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:45:38 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:45:38 INFO  BaseTest:23 - Browser closes
+2019-11-23 22:49:52 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:49:52 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:49:57 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:50:01 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:50:03 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:50:06 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:50:09 INFO  BaseElement:22 - year clicked
+2019-11-23 22:50:10 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:50:14 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:50:15 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:50:15 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 22:50:21 INFO  BaseTest:23 - Browser closes
+2019-11-23 22:55:51 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:55:51 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:55:56 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:55:59 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:56:01 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:56:04 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:56:06 INFO  BaseElement:22 - year clicked
+2019-11-23 22:56:07 INFO  BaseTest:23 - Browser closes
+2019-11-23 22:56:18 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:56:18 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:56:24 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:56:29 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:56:32 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:56:35 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:56:39 INFO  BaseElement:22 - year clicked
+2019-11-23 22:56:39 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:56:42 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:56:42 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:56:42 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 22:56:45 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:56:45 INFO  BaseTest:23 - Browser closes
+2019-11-23 22:57:48 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:57:48 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:57:54 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:57:58 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:58:01 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:58:04 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:58:06 INFO  BaseElement:22 - year clicked
+2019-11-23 22:58:06 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:58:10 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 22:59:06 INFO  Browser:51 - Timeout is 30
+2019-11-23 22:59:06 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 22:59:20 INFO  Browser:36 - Full screen mode is on
+2019-11-23 22:59:25 INFO  BaseElement:22 - Research clicked
+2019-11-23 22:59:28 INFO  BaseElement:22 - makeId clicked
+2019-11-23 22:59:31 INFO  BaseElement:22 - modelId clicked
+2019-11-23 22:59:34 INFO  BaseElement:22 - year clicked
+2019-11-23 22:59:34 INFO  BaseElement:22 - Search clicked
+2019-11-23 22:59:36 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:00:05 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:00:05 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:00:13 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:00:17 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:00:19 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:00:23 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:00:25 INFO  BaseElement:22 - year clicked
+2019-11-23 23:00:28 INFO  BaseElement:22 - Search clicked
+2019-11-23 23:00:32 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:00:32 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:00:32 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 23:00:35 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:00:39 INFO  BaseTest:23 - Browser closes
+2019-11-23 23:26:46 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:26:46 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:27:00 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:27:05 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:27:07 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:27:11 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:27:14 INFO  BaseElement:22 - year clicked
+2019-11-23 23:27:17 INFO  BaseElement:22 - Search clicked
+2019-11-23 23:27:21 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:27:21 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:27:21 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 23:27:24 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:27:24 INFO  BaseTest:23 - Browser closes
+2019-11-23 23:28:10 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:28:10 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:28:14 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:28:18 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:28:21 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:28:25 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:28:27 INFO  BaseElement:22 - year clicked
+2019-11-23 23:28:32 INFO  BaseTest:23 - Browser closes
+2019-11-23 23:28:42 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:28:42 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:28:46 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:28:51 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:28:53 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:28:58 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:29:00 INFO  BaseElement:22 - year clicked
+2019-11-23 23:29:03 INFO  BaseElement:22 - Search clicked
+2019-11-23 23:29:05 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:29:06 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:29:06 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 23:29:08 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:29:13 INFO  BaseTest:23 - Browser closes
+2019-11-23 23:29:43 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:29:43 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:29:52 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:29:56 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:29:59 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:30:02 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:30:05 INFO  BaseElement:22 - year clicked
+2019-11-23 23:30:07 INFO  BaseElement:22 - Search clicked
+2019-11-23 23:30:11 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:30:11 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:30:11 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 23:30:14 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:30:18 INFO  BaseTest:23 - Browser closes
+2019-11-23 23:36:52 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:36:52 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:37:06 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:37:10 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:37:13 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:37:17 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:37:20 INFO  BaseElement:22 - year clicked
+2019-11-23 23:37:23 INFO  BaseElement:22 - Search clicked
+2019-11-23 23:37:26 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:37:27 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:37:27 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 23:37:50 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:37:50 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:37:56 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:38:01 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:38:03 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:38:06 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:38:09 INFO  BaseElement:22 - year clicked
+2019-11-23 23:38:12 INFO  BaseElement:22 - Search clicked
+2019-11-23 23:38:16 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:38:17 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:38:17 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 23:38:20 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:38:24 INFO  BaseTest:23 - Browser closes
+2019-11-23 23:39:54 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:39:54 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:39:59 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:40:03 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:40:06 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:40:10 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:40:13 INFO  BaseElement:22 - year clicked
+2019-11-23 23:40:15 INFO  BaseElement:22 - Search clicked
+2019-11-23 23:40:19 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:40:20 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:40:20 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 23:40:22 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:40:23 INFO  FileManager:19 - Checked if file is in the folder
+2019-11-23 23:40:23 INFO  BaseTest:23 - Browser closes
+2019-11-23 23:44:20 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:44:20 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:44:26 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:44:31 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:44:34 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:44:38 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:44:41 INFO  BaseElement:22 - year clicked
+2019-11-23 23:44:43 INFO  BaseElement:22 - Search clicked
+2019-11-23 23:44:46 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:44:57 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:44:57 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:45:12 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:45:16 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:45:19 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:45:23 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:45:26 INFO  BaseElement:22 - year clicked
+2019-11-23 23:45:29 INFO  BaseElement:22 - Search clicked
+2019-11-23 23:45:33 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:45:34 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:45:34 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 23:45:37 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:45:38 INFO  FileManager:19 - Checked if file is in the folder
+2019-11-23 23:45:38 INFO  BaseElement:22 - Main Page clicked
+2019-11-23 23:46:08 INFO  BaseTest:23 - Browser closes
+2019-11-23 23:46:45 INFO  Browser:51 - Timeout is 30
+2019-11-23 23:46:45 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 23:46:53 INFO  Browser:36 - Full screen mode is on
+2019-11-23 23:46:57 INFO  BaseElement:22 - Research clicked
+2019-11-23 23:47:06 INFO  BaseElement:22 - makeId clicked
+2019-11-23 23:47:09 INFO  BaseElement:22 - modelId clicked
+2019-11-23 23:47:12 INFO  BaseElement:22 - year clicked
+2019-11-23 23:47:15 INFO  BaseElement:22 - Search clicked
+2019-11-23 23:47:18 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:47:19 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:47:19 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-23 23:47:22 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-23 23:47:22 INFO  FileManager:19 - Checked if file is in the folder
+2019-11-23 23:47:22 INFO  BaseElement:22 - Main Page clicked
+2019-11-23 23:47:27 INFO  BaseTest:23 - Browser closes

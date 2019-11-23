@@ -1,0 +1,20 @@
+2019-11-23 14:33:26 INFO  Browser:51 - Timeout is 30
+2019-11-23 14:33:26 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 14:33:33 INFO  Browser:36 - Full screen mode is on
+2019-11-23 14:33:38 INFO  BaseElement:22 - Research clicked
+2019-11-23 14:34:08 INFO  BaseTest:23 - Browser closes
+2019-11-23 14:35:12 INFO  Browser:51 - Timeout is 30
+2019-11-23 14:35:12 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 14:35:30 INFO  Browser:36 - Full screen mode is on
+2019-11-23 14:35:35 INFO  BaseElement:22 - Research clicked
+2019-11-23 14:36:05 INFO  BaseTest:23 - Browser closes
+2019-11-23 14:36:34 INFO  Browser:51 - Timeout is 30
+2019-11-23 14:36:34 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 14:36:43 INFO  Browser:36 - Full screen mode is on
+2019-11-23 14:36:47 INFO  BaseElement:22 - Research clicked
+2019-11-23 14:37:18 INFO  BaseTest:23 - Browser closes
+2019-11-23 14:38:53 INFO  Browser:51 - Timeout is 30
+2019-11-23 14:38:53 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-23 14:39:00 INFO  Browser:36 - Full screen mode is on
+2019-11-23 14:39:05 INFO  BaseElement:22 - Research clicked
+2019-11-23 14:39:35 INFO  BaseTest:23 - Browser closes

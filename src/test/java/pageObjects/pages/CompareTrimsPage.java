@@ -28,4 +28,5 @@ public class CompareTrimsPage {
     public void clickMainPage(){
         goBackToMainPageButton.click();
     }
+
 }

@@ -26,8 +26,8 @@ public class FileManager {
         return (downloadedFile.getName().equals(fileName));
     }
 
-    public static void writer(ArrayList<String> data) throws IOException {
-        FileWriter fileWriter = new FileWriter("firstCarData.txt");
+    public static void writer(ArrayList<String> data, String fileName) throws IOException {
+        FileWriter fileWriter = new FileWriter(fileName);
         for (String datum : data) {
             fileWriter.write(datum+"\n");
         }

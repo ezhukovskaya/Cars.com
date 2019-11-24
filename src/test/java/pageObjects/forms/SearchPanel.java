@@ -16,12 +16,12 @@ public class SearchPanel extends BaseForm {
     private String modelIdName = "modelId";
     private String yearName = "year";
     private Button search = new Button("Search", searchButtonLocator);
-    ArrayList<WebElement> selectElements;
+    private ArrayList<WebElement> selectElements;
     private int valueIndex = 0;
     ArrayList<String> fullCarName = new ArrayList<>();
 
 
-    private DropDown getSelectDropDown(String elementName) {
+    DropDown getSelectDropDown(String elementName) {
         By dropDownLocator = By.xpath(String.format("//*[contains(@name,'%s')]", elementName));
         return new DropDown(elementName, dropDownLocator);
     }
@@ -42,12 +42,19 @@ public class SearchPanel extends BaseForm {
         fullCarName.add(getValueOfSelected(valueIndex));
     }
 
-    public String getFullCarName() {
+    public String getFullCarNameForAssets() {
         StringBuilder full = new StringBuilder();
+        full.setLength(0);
         for (int i = 0; i < fullCarName.size() - 1; i++) {
             full.append(fullCarName.get(i));
         }
-        return RegEx.getModifiedValue(fullCarName.get(fullCarName.size() - 1) + full);
+        String name = RegEx.getModifiedValue(fullCarName.get(fullCarName.size() - 1) + full);
+        fullCarName.clear();
+        return name;
+    }
+
+    public ArrayList<String> getFullCarName() {
+        return fullCarName;
     }
 
     public void searchPanelSelectElement() throws InterruptedException {

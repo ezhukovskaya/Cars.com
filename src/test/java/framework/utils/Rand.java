@@ -6,8 +6,10 @@ public class Rand {
     private static final Random random = new Random();
 
     public static int getRandomIndex(int arraySize){
-        int min = 2;
+        int min = 1;
         int diff  = arraySize - min;
-        return random.nextInt(diff + 1);
+        int randomIndex = random.nextInt(diff + 1);
+        randomIndex+=min;
+        return randomIndex;
     }
 }

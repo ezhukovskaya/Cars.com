@@ -62,11 +62,8 @@ public class SearchPanel extends BaseForm {
         DropDown modelId = getSelectDropDown(modelIdName);
         DropDown yearId = getSelectDropDown(yearName);
         selection(makeId);
-        Thread.sleep(2000);
         selection(modelId);
-        Thread.sleep(2000);
         selection(yearId);
-        Thread.sleep(2000);
         search.click();
     }
 }

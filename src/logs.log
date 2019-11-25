@@ -1445,3 +1445,43 @@
 2019-11-24 19:26:31 INFO  RegEx:15 -   spaces been taken away from the values
 2019-11-24 19:26:31 INFO  RegEx:15 -   spaces been taken away from the values
 2019-11-24 19:26:35 INFO  BaseTest:23 - Browser closes
+2019-11-25 08:43:03 INFO  Browser:51 - Timeout is 30
+2019-11-25 08:43:03 INFO  Browser:28 - Go to https://www.cars.com/
+2019-11-25 08:43:08 INFO  Browser:36 - Full screen mode is on
+2019-11-25 08:43:08 INFO  BaseElement:22 - Research clicked
+2019-11-25 08:43:10 INFO  BaseElement:22 - makeId clicked
+2019-11-25 08:43:11 INFO  BaseElement:22 - modelId clicked
+2019-11-25 08:43:11 INFO  BaseElement:22 - year clicked
+2019-11-25 08:43:12 INFO  BaseElement:22 - Search clicked
+2019-11-25 08:43:16 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-25 08:43:16 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-25 08:43:16 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-25 08:43:19 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-25 08:43:19 INFO  FileManager:19 - Checked if file is in the folder
+2019-11-25 08:43:19 INFO  BaseElement:22 - Main Page clicked
+2019-11-25 08:43:20 INFO  BaseElement:22 - Research clicked
+2019-11-25 08:43:22 INFO  BaseElement:22 - makeId clicked
+2019-11-25 08:43:22 INFO  BaseElement:22 - modelId clicked
+2019-11-25 08:43:22 INFO  BaseElement:22 - year clicked
+2019-11-25 08:43:23 INFO  BaseElement:22 - Search clicked
+2019-11-25 08:43:28 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-25 08:43:28 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-25 08:43:28 INFO  BaseElement:22 - Compare Trims clicked
+2019-11-25 08:43:35 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-25 08:43:35 INFO  FileManager:19 - Checked if file is in the folder
+2019-11-25 08:43:35 INFO  BaseElement:22 - Main Page clicked
+2019-11-25 08:43:35 INFO  BaseElement:22 - Research clicked
+2019-11-25 08:43:38 INFO  BaseElement:22 - Side-by-side Comparisons clicked
+2019-11-25 08:43:41 INFO  BaseElement:22 - makeDropdown clicked
+2019-11-25 08:43:41 INFO  BaseElement:22 - modelDropdown clicked
+2019-11-25 08:43:41 INFO  BaseElement:22 - yearDropdown clicked
+2019-11-25 08:43:42 INFO  BaseElement:22 - Start Comparing clicked
+2019-11-25 08:43:42 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-25 08:43:42 INFO  BaseElement:22 - Add another car clicked
+2019-11-25 08:43:43 INFO  BaseElement:22 - makeDropdown clicked
+2019-11-25 08:43:43 INFO  BaseElement:22 - modelDropdown clicked
+2019-11-25 08:43:43 INFO  BaseElement:22 - yearDropdown clicked
+2019-11-25 08:43:43 INFO  BaseElement:22 - Done clicked
+2019-11-25 08:43:43 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-25 08:43:43 INFO  RegEx:15 -   spaces been taken away from the values
+2019-11-25 08:43:44 INFO  BaseTest:23 - Browser closes

@@ -21,11 +21,8 @@ public class AnotherCarSearch extends SearchPanel {
 
     public void searchPanelSelectElement(Cars car) throws InterruptedException {
         selection(makeId, car.getCarName());
-        Thread.sleep(2000);
         selection(modelId, car.getCarModel());
-        Thread.sleep(2000);
         selection(yearId, car.getModelYear());
-        Thread.sleep(2000);
         done.click();
     }
 

@@ -17,6 +17,5 @@ public class CarPage {
 
     public void clickOnCompareTrims() throws InterruptedException {
         compareTrims.click();
-        Thread.sleep(5000);
     }
 }

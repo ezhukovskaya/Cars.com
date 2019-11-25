@@ -25,10 +25,10 @@ public class CompareWrapper {
     }
 
     public boolean isEngineTheSame(Cars firstCar, Cars secondCar){
-        return RegEx.getModifiedValue(engineInfo.getText()).contains(RegEx.getModifiedValue(firstCar.getEngineData()+secondCar.getEngineData()));
+        return RegEx.getModifiedValue(engineInfo.getText()).contains(RegEx.getModifiedValue(firstCar.getEngineData()));
     }
 
     public boolean isTransTheSame(Cars firstCar, Cars secondCar){
-        return RegEx.getModifiedValue(transmissionInfo.getText()).contains(RegEx.getModifiedValue(firstCar.getEngineData()+secondCar.getEngineData()));
+        return RegEx.getModifiedValue(transmissionInfo.getText()).contains(RegEx.getModifiedValue(firstCar.getTransData()));
     }
 }

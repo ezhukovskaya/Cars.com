@@ -19,7 +19,7 @@ public class AnotherCarSearch extends SearchPanel {
         dropDown.select(choice);
     }
 
-    public void searchPanelSelectElement(Cars car) throws InterruptedException {
+    public void searchPanelSelectElement(Cars car) {
         selection(makeId, car.getCarName());
         selection(modelId, car.getCarModel());
         selection(yearId, car.getModelYear());

@@ -19,10 +19,9 @@ public class TrimTable {
         return new Banner("Car data",carDataLocator);
     }
 
-    public ArrayList<String> getTextFromCarData() throws IOException {
+    public ArrayList<String> getTextFromCarData() {
         carData.add(engine.getText());
         carData.add(trans.getText());
-        FileManager.writer(carData,"firstCarData.txt");
         return carData;
     }
 

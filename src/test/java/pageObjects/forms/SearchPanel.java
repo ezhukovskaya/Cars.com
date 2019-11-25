@@ -57,7 +57,7 @@ public class SearchPanel extends BaseForm {
         return fullCarName;
     }
 
-    public void searchPanelSelectElement() throws InterruptedException {
+    public void searchPanelSelectElement() {
         DropDown makeId = getSelectDropDown(makeIdName);
         DropDown modelId = getSelectDropDown(modelIdName);
         DropDown yearId = getSelectDropDown(yearName);

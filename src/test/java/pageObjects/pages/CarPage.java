@@ -15,7 +15,7 @@ public class CarPage {
         return RegEx.getModifiedValue(carName.getText());
     }
 
-    public void clickOnCompareTrims() throws InterruptedException {
+    public void clickOnCompareTrims() {
         compareTrims.click();
     }
 }

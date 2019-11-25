@@ -15,7 +15,7 @@ public class TC1 extends BaseTest {
     SideBySidePage sideBySidePage = new SideBySidePage();
     CompareCarsPage compareCarsPage = new CompareCarsPage();
     @Test
-    public void carsComparisonTest() throws InterruptedException, IOException {
+    public void carsComparisonTest()  {
         Assert.assertTrue(mainPage.mainPageIsDisplayed(), "Main page is not opened");
         Cars firstCar = testSteps.getSelectedCar();
         compareTrimsPage.clickMainPage();

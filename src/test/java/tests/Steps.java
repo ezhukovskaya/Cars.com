@@ -14,7 +14,7 @@ public class Steps {
     ResearchPage researchPage = new ResearchPage();
     CarPage carPage = new CarPage();
     CompareTrimsPage compareTrimsPage = new CompareTrimsPage();
-    public Cars getSelectedCar() throws InterruptedException, IOException {
+    public Cars getSelectedCar()  {
         mainPage.getMainMenu().mainMenuButtonClick();
         Assert.assertTrue(researchPage.researchPageIsDisplayed(), "Research Page is not opened");
         researchPage.getSearchPanel().searchPanelSelectElement();

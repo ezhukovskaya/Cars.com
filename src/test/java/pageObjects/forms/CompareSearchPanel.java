@@ -9,7 +9,7 @@ public class CompareSearchPanel extends SearchPanel {
     private String compareModelIdName = "modelDropdown";
     private String compareYearIdName = "yearDropdown";
     private By compareButtonLocator = By.xpath("//*[contains(@class,'done-button')]");
-    private Button compareButton = new Button("Start Comparing", compareButtonLocator);
+    private Button compareButton = new Button(compareButtonLocator, "Start Comparing");
     private DropDown makeId = getSelectDropDown(compareMakeIdName);
     private DropDown modelId = getSelectDropDown(compareModelIdName);
     private DropDown yearId = getSelectDropDown(compareYearIdName);
@@ -19,13 +19,10 @@ public class CompareSearchPanel extends SearchPanel {
         dropDown.select(choice);
     }
 
-    public void searchPanelSelectElement(Cars car) throws InterruptedException {
+    public void searchPanelSelectElement(Cars car) {
         selection(makeId, car.getCarName());
-        Thread.sleep(2000);
         selection(modelId, car.getCarModel());
-        Thread.sleep(2000);
         selection(yearId, car.getModelYear());
-        Thread.sleep(2000);
         compareButton.click();
     }
 }

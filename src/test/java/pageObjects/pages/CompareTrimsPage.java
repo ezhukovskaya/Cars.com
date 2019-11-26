@@ -10,8 +10,8 @@ import regEx.RegEx;
 public class CompareTrimsPage {
     private By goBackToMainPageButtonLocator = By.xpath("//*[@data-linkname='header-home']");
     private By compareTrimsForChosenCarLocator = By.xpath("//*[contains(@class, 'cui-heading-1')]");
-    private Banner compareTrimsForChosenCar = new Banner("compareTrimsForChosenCar", compareTrimsForChosenCarLocator);
-    private Button goBackToMainPageButton = new Button("Main Page",goBackToMainPageButtonLocator);
+    private Banner compareTrimsForChosenCar = new Banner(compareTrimsForChosenCarLocator, "compareTrimsForChosenCar");
+    private Button goBackToMainPageButton = new Button(goBackToMainPageButtonLocator, "Main Page");
 
     public String getTrims(){
         return RegEx.getModifiedValue(compareTrimsForChosenCar.getText());

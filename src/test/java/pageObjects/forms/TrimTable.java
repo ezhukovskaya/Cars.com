@@ -1,10 +1,8 @@
 package pageObjects.forms;
 
 import framework.elements.Banner;
-import framework.utils.FileManager;
 import org.openqa.selenium.By;
 
-import java.io.IOException;
 import java.util.ArrayList;
 
 public class TrimTable {
@@ -16,13 +14,12 @@ public class TrimTable {
 
     private Banner getCarDataBanner(String className){
         By carDataLocator = By.xpath(String.format("//*[@class='%s']", className));
-        return new Banner("Car data",carDataLocator);
+        return new Banner(carDataLocator, "Car data");
     }
 
-    public ArrayList<String> getTextFromCarData() throws IOException {
+    public ArrayList<String> getTextFromCarData()  {
         carData.add(engine.getText());
         carData.add(trans.getText());
-        FileManager.writer(carData,"firstCarData.txt");
         return carData;
     }
 

@@ -1,6 +1,5 @@
 package pageObjects.forms;
 
-import framework.base.BaseForm;
 import framework.elements.Button;
 import framework.elements.DropDown;
 import framework.utils.Rand;
@@ -10,12 +9,12 @@ import regEx.RegEx;
 
 import java.util.ArrayList;
 
-public class SearchPanel extends BaseForm {
+public class SearchPanel {
     private By searchButtonLocator = By.xpath("//*[contains(@class,'_3iP3L')]");
-    private String makeIdName = "makeId";
-    private String modelIdName = "modelId";
-    private String yearName = "year";
-    private Button search = new Button("Search", searchButtonLocator);
+    DropDown makeId = getSelectDropDown("makeId");
+    DropDown modelId = getSelectDropDown("modelId");
+    DropDown yearId = getSelectDropDown("year");
+    private Button search = new Button(searchButtonLocator, "Search");
     private ArrayList<WebElement> selectElements;
     private int valueIndex = 0;
     ArrayList<String> fullCarName = new ArrayList<>();
@@ -23,7 +22,7 @@ public class SearchPanel extends BaseForm {
 
     DropDown getSelectDropDown(String elementName) {
         By dropDownLocator = By.xpath(String.format("//*[contains(@name,'%s')]", elementName));
-        return new DropDown(elementName, dropDownLocator);
+        return new DropDown(dropDownLocator, elementName);
     }
 
     private int getSelectedItemIndex(DropDown dropDown) {
@@ -57,16 +56,10 @@ public class SearchPanel extends BaseForm {
         return fullCarName;
     }
 
-    public void searchPanelSelectElement() throws InterruptedException {
-        DropDown makeId = getSelectDropDown(makeIdName);
-        DropDown modelId = getSelectDropDown(modelIdName);
-        DropDown yearId = getSelectDropDown(yearName);
+    public void searchPanelSelectElement() {
         selection(makeId);
-        Thread.sleep(2000);
         selection(modelId);
-        Thread.sleep(2000);
         selection(yearId);
-        Thread.sleep(2000);
         search.click();
     }
 }

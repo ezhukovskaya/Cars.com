@@ -4,7 +4,6 @@ import framework.browser.Browser;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.Select;
 
 public abstract class BaseElement {
 
@@ -13,19 +12,14 @@ public abstract class BaseElement {
     static final Logger log = Logger.getLogger(BaseElement.class);
     private Actions actions = new Actions(Browser.getBrowser());
 
-    public BaseElement(String name, By locator) {
+    public BaseElement(By locator, String name) {
         this.buttonLocator = locator;
         this.elementName = name;
     }
 
     public void click() {
-        log.info(this.elementName + " clicked");
+        log.info(this.elementName + " click");
         Browser.getBrowser().findElement(buttonLocator).click();
-    }
-
-    public void hover() {
-        log.info(this.elementName + "hovered");
-        actions.moveToElement(Browser.getBrowser().findElement(this.buttonLocator)).perform();
     }
 
     public String getText() {

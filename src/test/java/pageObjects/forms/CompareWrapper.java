@@ -7,13 +7,13 @@ import regEx.RegEx;
 
 public class CompareWrapper {
     private By addAnotherCarLocator = By.xpath("//*[@id = 'add-from-your-favorite-cars-link']");
-    private Button addAnotherCar = new Button("Add another car",addAnotherCarLocator);
+    private Button addAnotherCar = new Button(addAnotherCarLocator, "Add another car");
     private By secondCarCheckLocator = By.xpath("//*[contains(@class,'listing-name')]");
-    private Banner secondCar = new Banner("Second Car", secondCarCheckLocator);
+    private Banner secondCar = new Banner(secondCarCheckLocator, "Second Car");
     private By engineInfoLocator = By.xpath("//*[@header='Engine']");
     private By transmissionInfoLocator = By.xpath("//*[@header='Transmission']");
-    private Banner engineInfo = new Banner("Engine Info",engineInfoLocator);
-    private Banner transmissionInfo = new Banner("Transmission Info", transmissionInfoLocator);
+    private Banner engineInfo = new Banner(engineInfoLocator, "Engine Info");
+    private Banner transmissionInfo = new Banner(transmissionInfoLocator, "Transmission Info");
 
     public AnotherCarSearch getAnotherCarSearch(){
         addAnotherCar.click();
@@ -29,6 +29,6 @@ public class CompareWrapper {
     }
 
     public boolean isTransTheSame(Cars firstCar, Cars secondCar){
-        return RegEx.getModifiedValue(transmissionInfo.getText()).contains(RegEx.getModifiedValue(firstCar.getEngineData()+secondCar.getEngineData()));
+        return RegEx.getModifiedValue(transmissionInfo.getText()).contains(RegEx.getModifiedValue(firstCar.getTransData()+secondCar.getTransData()));
     }
 }

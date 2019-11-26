@@ -8,10 +8,10 @@ public class MainMenu {
 
     private Button getMenuButton(String buttonName, String locator) {
         By elementLocator = By.xpath(String.format(locator + "//a[contains(text(), '%s')]", buttonName));
-        return new Button(buttonName, elementLocator);
+        return new Button(elementLocator, buttonName);
     }
 
-    public void mainMenuButtonClick(){
+    public void mainMenuResearchButtonClick(){
         Button research = getMenuButton("Research", mainMenuLocator);
         research.click();
     }

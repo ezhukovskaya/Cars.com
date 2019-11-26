@@ -6,7 +6,7 @@ import pageObjects.forms.CompareSearchPanel;
 
 public class SideBySidePage {
     private By pageLocator = By.xpath("//*[contains(@class, 'compare-head-h1-semi')]");
-    private Banner pageBanner = new Banner("Compare Cars Side-by-Side",pageLocator);
+    private Banner pageBanner = new Banner(pageLocator, "Compare Cars Side-by-Side");
 
     public boolean isSideBySidePageDisplayed(){
         return pageBanner.isDisplayed();

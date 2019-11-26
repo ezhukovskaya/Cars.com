@@ -8,9 +8,9 @@ import pageObjects.forms.ToolsForm;
 
 public class ResearchPage {
     private By researchPageLocator = By.xpath("//*[@class='m6uQf']");
-    private Banner researchPage = new Banner("Research Page Banner",researchPageLocator);
+    private Banner researchPage = new Banner(researchPageLocator, "Research Page Banner");
     private By sideNySideCompareLocator = By.xpath("//*[contains(@class, '_1dRAW')]");
-    private Button sideBySide = new Button("Side-by-Side Compare", sideNySideCompareLocator);
+    private Button sideBySide = new Button(sideNySideCompareLocator, "Side-by-Side Compare");
     SearchPanel searchPanel = new SearchPanel();
 
     public boolean researchPageIsDisplayed(){
